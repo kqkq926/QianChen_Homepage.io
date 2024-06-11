@@ -1,7 +1,7 @@
 ---
 title: "PAGE: Equilibrate Personalization and Generalization in Federated Learning"
 collection: Proceedings of the ACM on Web Conference
-excerpt: '**Qian Chen**, Zilong Wang, Jiaqi Hu, Haonan Yan, and Xiaodong Lin '
+excerpt: '**Qian Chen**, Zilong Wang, Jiaqi Hu, Haonan Yan, Jianying Zhou, and Xiaodong Lin '
 date: 2024-5-13
 venue: 'Proceedings of the ACM on Web Conference (WWW)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589334.3645513'
