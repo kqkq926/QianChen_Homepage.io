@@ -1,1 +1,9 @@
-
+---
+title: "LLDP: A Layer-wise Local Differential Privacy in Federated Learning"
+collection: IEEE International Conference on Trust, Security and Privacy in Computing and Communications
+excerpt: '**Qian Chen**, Zilong Wang, Jiaqi Hu, Haonan Yan, Jianying Zhou, and Xiaodong Lin '
+date: 2022-12-9
+venue: 'IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10063630'
+---
+**Abstract:** Federated learning (FL) combined with local differential privacy (LDP) has attracted considerable attention due to its privacy-preserving capability against inference-type attacks, e.g., model inversion attacks and membership inference attacks. However, the noise introduced by LDP reduces the global model performance, while decreasing the noise by setting a larger privacy budget sacrifices the privacy guarantees. In this paper, we propose a layer-wise LDP for the FL system, dubbed LLDP, which disturbs various layers of a local model according to clients’ self-assigned privacy budgets. With the deployment of LLDP, clients could train a highly accurate and rapid-converged global model without loosing privacy guarantees. Through extensive security analyses, the proposed LLDP scheme helps the entire local model achieve (ε,δ)-LDP, and the probability indistinguishability of the local model is achieved under the widespread semi-honest threat model. Ingenious experiments show that LLDP improves the global model prediction and convergence rate by 3.38% and 4.76% on the CIFAR-10 dataset compared to the state-of-the-art LDP method with the same privacy budget. In addition, given the same training target (loss value), LLDP requires a 26.67% lower privacy budget, providing stronger privacy guarantees against model inversion attacks.
