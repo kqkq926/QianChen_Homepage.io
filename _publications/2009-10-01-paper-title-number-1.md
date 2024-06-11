@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+title: "PAGE: Equilibrate Personalization and Generalization in Federated Learning"
+collection: Proceedings of the ACM on Web Conference 2024
+permalink: https://dl.acm.org/doi/abs/10.1145/3589334.3645513
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
