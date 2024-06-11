@@ -26,5 +26,5 @@ Publications
   
 Service
 ======
-* Reviewer of TIFS, INFOCOM 2024, IoTJ, TII, INS, etc.
+* Reviewer of TIFS (2021-), INFOCOM 2024, IoTJ (2021-), IJIS (2023-), INS (2024-), OJ-COMS (2022-), etc.
 * Volunteer of Asia CCS 2024.
