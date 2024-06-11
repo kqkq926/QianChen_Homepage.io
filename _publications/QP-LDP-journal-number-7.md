@@ -1,0 +1,9 @@
+---
+title: "QP-LDP for Better Global Model Performance in Federated Learning"
+collection: IEEE Internet of Things Journal
+excerpt: '**Qian Chen**, Zheng Chai, Zilong Wang, Haonan Yan, Xiaodong Lin, and Jianying Zhou'
+date: 2024-4-9
+venue: 'IEEE Internet of Things Journal (IoTJ)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10511279'
+---
+**Abstract:** Federated learning (FL) enhanced by local differential privacy (LDP) has gained promising privacy-preserving capabilities against privacy attacks on local contributions. In this context, noise-discounting LDP methods have been widely investigated to provide better model performance and stronger privacy guarantees. However, prior art calibrate privacy guarantees by distinct LDP definitions, resulting in non-uniform privacy-preserving capabilities. In this paper, aligned with the standard LDP definition, we proposed QP-LDP, a noise-discounting algorithm for FL, which can yield better model performance without any privacy loss. Specifically, QP-LDP precisely disturbs non-common components of quantized local contributions, which are selected by an extended multi-party private set intersection process. In particular, QP-LDP can comprehensively protect two types of local contributions, i.e., local models and gradients for prevailing FedAvg and FedSGD, respectively. Through theoretical analysis, QP-LDP provides component-level indistinguishability for clients’ private local contributions and rigorous convergence guarantees for the global model. Extensive experiments on four widespread databases show that, compared to the standard LDP method, the global model prediction accuracy and convergence rate achieved by QP-LDP can be improved by up to 14:99% and 23:08%, respectively. More importantly, QP-LDP achieves the same level of privacy-preserving capabilities against privacy attacks as the standard LDP method.
