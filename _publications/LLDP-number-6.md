@@ -1,7 +1,7 @@
 ---
 title: "LLDP: A Layer-wise Local Differential Privacy in Federated Learning"
 collection: IEEE International Conference on Trust, Security and Privacy in Computing and Communications
-excerpt: '**Qian Chen**, Zilong Wang, Jiaqi Hu, Haonan Yan, Jianying Zhou, and Xiaodong Lin '
+excerpt: '**Qian Chen**, Hongbo Wang, Zilong Wang, Jiawei Chen, Haonan Yan, and Xiaodong Lin '
 date: 2022-12-9
 venue: 'IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10063630'
