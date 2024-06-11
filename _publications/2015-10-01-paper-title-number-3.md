@@ -1,13 +1,9 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "FedDual: Pair-wise gossip helps federated learning in large decentralized networks"
+collection: IEEE Transactions on Information Forensics and Security
+excerpt: '**Qian Chen**, Zilong Wang, Hongbo Wang, and Xiaodong Lin '
+date: 2022-11-11
+venue: ': IEEE Transactions on Information Forensics and Security (TIFS)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9954055'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract:** There is a significant recent interest in collaboratively training a machine learning (ML) model without collecting data to a central server. Federated learning (FL) emerges as an efficient solution mitigating systemic privacy risks and communication costs. However, conventional FL inherited from parameter server designs relies too much on a central server, which may lead to privacy risks, communication bottlenecks, or a single point of failure. In this paper, we propose an asynchronous and hierarchical local gradient aggregation and global model update algorithm, FedDual, under three different security considerations for FL in large decentralized networks. Particularly, FedDual preserves privacy by introducing local differential privacy (LDP) and aggregates local gradients asynchronously and hierarchically via a pair-wise gossip algorithm, which is more competitive than previous gossip-based decentralized FL methods in terms of privacy preservation and communication efficiency, and offers more computational efficiency compared to existing blockchain-assisted decentralized FL methods. Further, we devise a noise cutting trick based on Private Set Intersection (PSI) to mitigate the prediction performance loss of the global model caused by the leveraged LDP. Rigorous analyses show that FedDual helps decentralized FL achieve the same convergence rate of O(1/T) as centralized ML theoretically. Ingenious experiments on MNIST, CIFAR-10, and FEMNIST confirm that the model prediction performance gained from FedDual is close to centralized ML. More importantly, the proposed noise cutting trick helps FedDual to train better global models than LDP-based FL methods in terms of prediction performance and convergence rate.
