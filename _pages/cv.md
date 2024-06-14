@@ -14,6 +14,10 @@ Education
 * Ph.D in Cyberspace Security, Xidian University, China, 2024
 * B.S. in mathematics, Xi’an Jiaotong University, China, 2016
 
+Work experience
+======
+* Visiting Research Fellow, Singapore University of Technology and Design (SUTD), 2022-2024
+
 
 
 Publications
