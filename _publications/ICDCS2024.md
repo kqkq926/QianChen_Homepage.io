@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Vehicular Edge Intelligence through Distributed Collaborative Generative AI Inference"
+title: "SG-FCB: A Stackelberg Game-Driven Fair Committee-based Blockchain Consensus Protocol"
 collection: 44th IEEE International Conference on Distributed Computing Systems
 excerpt: 'Ningbin Yang, Chunming Tang, Zehui Xiong, **Qian Chen**, Jiawen Kang, and Debiao He'
 date: 2024-7-23
