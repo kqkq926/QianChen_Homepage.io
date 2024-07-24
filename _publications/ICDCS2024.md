@@ -1,0 +1,9 @@
+---
+title: "Enhancing Vehicular Edge Intelligence through Distributed Collaborative Generative AI Inference"
+collection: 44th IEEE International Conference on Distributed Computing Systems
+excerpt: 'Ningbin Yang, Chunming Tang, Zehui Xiong, **Qian Chen**, Jiawen Kang, and Debiao He'
+date: 2024-7-23
+venue: 'IEEE International Conference on Distributed Computing Systems'
+paperurl: 'https://icdcs2024.icdcs.org/accepted-papers/; Coming soon'
+---
+**Abstract:** Committee-based blockchain consensus is a fusion of permissionless consensus and the permissioned Byzantine Fault-Tolerant (BFT) classical protocol. However, three enduring challenges remain: the formal security framework for the Proof-of-Stake (PoS)-based hybrid consensus, the dynamic adjustment of committee size and the definition of a precise consensus time bound. To tackle these challenges, in this paper, we present a Stackelberg game-driven fair committee-based blockchain consensus protocol, dubbed SG-FCB, which combines PoS and reputation-based blockchain hybrid BFT consensus. To achieve fair leader election and committee reconfiguration seamlessly, the SG-FCB protocol leverages a unbiased BLS-threshold signature and a random shuffle algorithm. Specifically, the variant-BFT is designed to maintain the low communication cost of O(n), and a Stackelberg game-based incentive mechanism is proposed to maximize the individual profit of the validators and the expected consensus committee responsiveness efficiency of blockchain user. Rigorous security analysis shows that for an adversary with a stakeholding fraction less than 1/3 and sufficient reputation value, we define the time bound for consensus and the SGFCB protocol achieves consistency and liveness properties by reasonably setting a corruption parameter and liveness parameter within a formal framework.
